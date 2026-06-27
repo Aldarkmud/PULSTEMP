@@ -66,7 +66,7 @@ The system reads temperature from a thermocouple sensor, displays it in real tim
 
 ## Demo
 
-> 🎥 Videos are available in the [Issues](../../issues) section of this repository.
+> 🎥 Video is available in the [Issues](../../issues) section of this repository.
 
 ## Author
 
