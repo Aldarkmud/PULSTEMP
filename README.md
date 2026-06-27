@@ -64,6 +64,9 @@ The system reads temperature from a thermocouple sensor, displays it in real tim
 5. On completion, data is written to a timestamped `.csv` file on the SD card
 6. SD card is safely unmounted after write
 
+## Demo
+
+> 🎥 Videos are available in the [Issues](../../issues) section of this repository.
 
 ## Author
 
